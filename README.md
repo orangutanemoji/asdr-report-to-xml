@@ -1,6 +1,6 @@
 # asdr2xml
 
-This script automates point creation for desigo. It takes an ASDR file in `.csv` format outputs an `.xml` file with the same name and location. You will need a Python environment with Jupyter Notebook support, such as VS Code.
+This script automates point creation for Desigo CC. It takes an ASDR file in `.csv` format outputs an `.xml` file with the same name and location. You will need a Python environment with Jupyter Notebook support, such as VS Code.
 
 On the initial run, the required libraries can be installed by setting `FIRST_RUN` to True.
 
