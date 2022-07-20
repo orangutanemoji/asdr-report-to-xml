@@ -4,6 +4,6 @@ This script automates point creation for Desigo CC. It takes an ASDR file in `.c
 
 On the initial run, the required libraries can be installed by setting `FIRST_RUN` to True.
 
-File locations are referenced in relation to `asdr-report-to-xml.ipynb`. The location for the repository's test data set in the script with `asdr_filename = 'DVO/ASDR.csv'`
+File locations are referenced in relation to `asdr-report-to-xml.ipynb`. The location for the input file can be set in the script with `asdr_filename = 'DVO/ASDR.csv'`
 
 There are still some edge cases that the script does not support, but it will assign most of the points.
