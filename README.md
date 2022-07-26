@@ -1,4 +1,4 @@
-# asdr2xml
+# asdr-report-to-xml
 
 `asdr-report-to-xml.ipynb` automates point creation for Desigo CC. It takes an ASDR file in `.csv` format and outputs an `.xml` file with the same name and location. In order to run the `.ipynb` file, you will need a Python environment with Jupyter Notebook support, such as VS Code.
 
